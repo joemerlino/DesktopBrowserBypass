@@ -1,0 +1,9 @@
+Package: com.joemerlino.desktopbrowser
+Name: DesktopBrowserBypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bypass ads popup alert.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
